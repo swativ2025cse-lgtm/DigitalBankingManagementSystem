@@ -461,18 +461,3 @@ The project can be enhanced with the following features:
 - Add automated unit and integration testing.
 - Improve administrator activity monitoring.
 
-## ⚠️ Disclaimer
-
-This project is developed for educational and academic purposes.
-
-It uses local SQLite storage and simulated account balances. It is not connected to real banking institutions and does not process actual financial transactions.
-
-It should not be used as a production banking system.
-
----
-
-<p align="center">
-  <strong>⭐ If you find this project useful, consider giving the repository a star!</strong>
-  <br>
-  Built with Java ☕, SQLite 🗄️, and JDBC.
-</p>
