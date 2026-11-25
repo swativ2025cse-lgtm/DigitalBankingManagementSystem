@@ -1,1 +1,14 @@
+# Java compiled files
+*.class
 
+# SQLite database
+digital_banking.db
+*.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
